@@ -173,7 +173,7 @@ if(isset($_POST['submit']))
         </h1>
         <nav style="font-family: Arial, Helvetica, sans-serif">
             <a class="link" href="index.php">Home</a>
-            <a class="link" href="About.html">About</a>
+            <a class="link" href="about.html">About</a>
             <a class="link" href="view_customers.php">View Customers</a>
             <a class="link" href="transaction_history.php">Transaction History</a>
         </nav>
@@ -245,7 +245,7 @@ if(isset($_POST['submit']))
         </form>
     </div>
     <footer class="footer">
-            <p style="color:white"><i>&#169; copyright 2021. Made by Pranav Reddy Gunnala</i></p>
+            <p style="color:white"><i>&#169; copyright 2021. Made by Priyanshu Awasthi</i></p>
             <p style="color:white"><i>All rights reserved. Powered by<a href="https://www.thesparksfoundationsingapore.org/">The Sparks Foundation</a></i></p>
     </footer>
 </body>

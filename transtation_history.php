@@ -36,7 +36,7 @@ include 'connection.php';
         </h1>
         <nav style="font-family: Arial, Helvetica, sans-serif">
             <a class="link" href="index.php">Home</a>
-            <a class="link" href="About.html">About</a>
+            <a class="link" href="about.html">About</a>
             <a class="link" href="view_customers.php">View Customers</a>
             <a class="link" href="transaction_history.php">Transaction History</a>
         </nav>
